@@ -27,6 +27,13 @@ The bridge to implementation. Agents should not act from the beneficiary’s raw
 The attractor of global alignment. A society of trustworthy agents cannot be based on naive niceness. It must cooperate preferentially with agents that can prove fiduciary control, provenance, bounded capabilities, auditability, recourse, and reputational exposure.
 8. [Fast Tracking Fid-Agents:](https://docs.google.com/document/u/0/d/1tHD20MKNqV4Qg5TbLC8ly3VmByG4sveMICVc_hC5nGI/edit)
 The  pre-implementation paper. We cannot wait for perfect legal, cryptographic, and standards infrastructure. We must build provisional fid-agents now: narrow, useful, constrained, human-reviewed, and precedent-producing.
+9. [Proposal for a ToIP Verifiable Agent Relationship Architecture:](https://docs.google.com/document/d/1hHBTXMfcHBBepiZ7cugr2YdR-M05YmNfh5P3eldYU3k/edit?tab=t.0#bookmark=id.kp3ok0bqs1t5)
+The proposal for further specification/ implementation at Trust Over IP, which lead to the formation of this Taskforce, of particular interest is Section 12.1, the Four Alignments. 
+10. [Fiduciary Alignment:](https://docs.google.com/document/u/0/d/13f7-Kmx2dFmzB2StCEz1vt3iz94zPs3GISAM3GVcULo/edit)
+A journalistic paper with formal math, citations, etc, for peer review and publishing that puts using agents redundantly constrained by duties up against existing models for AI alignment. 
+11. [Fid-Agent Society: Cooperative Reinforcement + Defection Collapse in a Properly Structured Fiduciary Agent Regime](https://docs.google.com/document/u/0/d/1CWJuUrOKQKzh7N5zU8F-AP2ug-9NYDfYTm0dWhJSLiE/edit)
+The sister academic paper to Fiduciary Alignment that looks at the at scale implications, and specifies the falsifiability of Verified Fiduciary Reciprocity as  an attractive, and stable evolutionary strategy. Also incorporates the key economic and policy arguments, and is more than 200 pages as it restates arguments from other works listed here. 
+
 
 
 
