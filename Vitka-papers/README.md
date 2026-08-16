@@ -1,1 +1,1 @@
-
+The Markdown Versions are mostly to give easy access to models, If you want to comment on or fork these papers, I encourage you to use the Google Docs Versions, [here.](https://github.com/trustoverip/aimwg-agent-fiduciary-duties/blob/master/README.md) 
