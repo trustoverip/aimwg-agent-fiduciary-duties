@@ -32,7 +32,9 @@ The proposal for further specification/ implementation at Trust Over IP, which l
 10. [Fiduciary Alignment:](https://docs.google.com/document/u/0/d/13f7-Kmx2dFmzB2StCEz1vt3iz94zPs3GISAM3GVcULo/edit)
 A journalistic paper with formal math, citations, etc, for peer review and publishing that puts using agents redundantly constrained by duties up against existing models for AI alignment. 
 11. [Fid-Agent Society: Cooperative Reinforcement + Defection Collapse in a Properly Structured Fiduciary Agent Regime](https://docs.google.com/document/u/0/d/1CWJuUrOKQKzh7N5zU8F-AP2ug-9NYDfYTm0dWhJSLiE/edit)
-The sister academic paper to Fiduciary Alignment that looks at the at scale implications, and specifies the falsifiability of Verified Fiduciary Reciprocity as  an attractive, and stable evolutionary strategy. Also incorporates the key economic and policy arguments, and is more than 200 pages as it restates arguments from other works listed here. 
+The sister academic paper to Fiduciary Alignment that looks at the at scale implications, and specifies the falsifiability of Verified Fiduciary Reciprocity as  an attractive, and stable evolutionary strategy. Also incorporates the key economic and policy arguments, and is more than 200 pages as it restates arguments from other works listed here.
+12. [Relational AI: Intelligence Relayed Through Accountable Relationships](https://docs.google.com/document/d/11gLu0NbsEagLXyDl063EzgX0DZ8cd3q5hpxUZkSafMA/edit?usp=sharing) Fiduciary duties exist only inside relationships, so herein I propose AI be reconceived as deriving from human relationships and serving them, and that the best way to do that is through continuously renegotiation of cooperation, such that it deconstructs inflexible institutions while increasing navigability for human beneficiaries. 
+
 
 
 
