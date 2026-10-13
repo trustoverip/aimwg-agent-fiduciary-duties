@@ -13,6 +13,7 @@ The matrix’s assurance-register foundation is derived from **Trust Over IP’s
 ## **Current State**
 
 The current workbook contains **68 threats, 391 propositions, and 1,173 draft scenarios** which will be expanded and refined over time. These are only the initial proposed assessment requirements and test designs. Controls begin as planned implementations, assessment evidence is blank, and the supplementary WLA registers contain draft templates.
+The current version link: (https://docs.google.com/spreadsheets/d/19hJPpeZzvtIUzT9B5SrRJYqO7XIyvkyCvk_biMi0Qck/edit?usp=sharing)
 
 ## **What the Matrix Asks**
 
